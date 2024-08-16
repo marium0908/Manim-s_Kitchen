@@ -1,0 +1,37 @@
+h1{
+  color: darkgreen;
+  text-decoration: underline;
+  }
+  .text{
+    color: indianred;
+  }
+  .solid, h2, h3 {
+    background-color: seashell;
+  }
+  .dot, h1{
+    background-color: darkgray;
+  }
+  .header{
+    height: 100px;
+    background-color: red;
+  }
+  .container{
+    overflow: hidden;
+  }
+  .blog{
+    display: inline-block;
+    width: 70%;
+    height: 300px;
+    background-color: darkgreen;
+  }
+  .contact{
+    display: inline-block;
+    width: 30%;
+    height: 300px;
+    background-color: yellow;
+    float: right;
+  }
+  .footer{
+    height: 100px;
+    background-color: black;
+  }
